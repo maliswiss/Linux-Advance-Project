@@ -1,0 +1,7 @@
+Event time,User name,Event name,Resource type,Resource name
+2024-03-15T10:32:14Z,Paul,TerminateInstances,AWS::EC2::Instance,i-0c127ab5cdf997cf4
+2024-03-15T10:35:21Z,Alice,RunInstances,AWS::EC2::Instance,i-0a8b9c0d1e2f3a4b5
+2024-03-15T11:02:45Z,Paul,TerminateInstances,AWS::EC2::Instance,i-04e8d1b9a23f6e1d0
+2024-03-15T11:14:08Z,Bob,DescribeInstances,AWS::EC2::Instance,i-0f5e6d7c8b9a0c1d2
+2024-03-15T11:45:33Z,Paul,TerminateInstances,AWS::EC2::Instance,i-0a7c5e3b8d9f2a4c1
+2024-03-15T12:01:17Z,Paul,StartInstances,AWS::EC2::Instance,i-0b1c2d3e4f5a6b7c8
