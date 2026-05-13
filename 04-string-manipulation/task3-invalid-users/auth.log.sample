@@ -1,0 +1,9 @@
+Mar 15 10:32:14 web-server sshd[12345]: Invalid user admin from 203.0.113.45 port 54231
+Mar 15 10:32:18 web-server sshd[12346]: Invalid user admin from 203.0.113.45 port 54232
+Mar 15 10:32:22 web-server sshd[12347]: Invalid user root from 198.51.100.10 port 41203
+Mar 15 10:33:01 web-server sshd[12348]: Invalid user oracle from 192.0.2.78 port 33012
+Mar 15 10:33:15 web-server sshd[12349]: Invalid user test from 203.0.113.45 port 54289
+Mar 15 10:34:02 web-server sshd[12350]: Invalid user admin from 198.51.100.10 port 41244
+Mar 15 10:34:21 web-server sshd[12351]: Invalid user ubuntu from 192.0.2.78 port 33044
+Mar 15 10:35:08 web-server sshd[12352]: Invalid user root from 203.0.113.45 port 54312
+Mar 15 10:35:33 web-server sshd[12353]: Invalid user oracle from 198.51.100.10 port 41267
